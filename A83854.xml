@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two declarations of the Commons assembled in Parliament, the one concerning the Court of Wards and Liveries: the other concerning such as shall inform the House of any member that hath taken any money or other reward, for any thing depending in the House. Together with an order concerning such persons as are come in from the Kings quarters, before the first of this instant December. Ordered by the Commons assembled in Parliament, that these declarations be forthwith printed and published. Hen. Elsynge, Cler. Parl. D. Com.</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83854</idno><idno type="EEBO-CITATION">99861228</idno>
+  <idno type="VID">113357</idno>
+  <idno type="EEBO-PROQUEST">2248528485</idno>
+  
+            <idno type="STC">Wing E2749</idno>
+            <idno type="STC">Thomason E314_14</idno>
+            <idno type="STC">ESTC R200500</idno>
+            <idno type="PROQUEST">99861228</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861228e"/>
+            <note>(EEBO-TCP ; phase 2, no. A83854)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113357)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 51:E314[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two declarations of the Commons assembled in Parliament, the one concerning the Court of Wards and Liveries: the other concerning such as shall inform the House of any member that hath taken any money or other reward, for any thing depending in the House. Together with an order concerning such persons as are come in from the Kings quarters, before the first of this instant December. Ordered by the Commons assembled in Parliament, that these declarations be forthwith printed and published. Hen. Elsynge, Cler. Parl. D. Com.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edw. Husband, printer to the Honorable House of Commons, and are to be sold at his shop at the sign of the Golden Dragon in Fleetstreet, neer the Inner-Temple,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>January. 3. 1645 [i.e. 1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The declarations are dated 4 November 1645 and 1 December 1645 respectively; the order is dated 17 December 1645.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Court of Wards and Liveries --  Early works to 1800.</term>
+               <term type="topical_term">Bribery --  England --  Early works to 1800.</term>
+               <term type="topical_term">Courts --  Law and legislation --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113357:1"/>
+            <p> TWO DECLARATIONS OF THE COMMONS Assembled in PARLIAMENT, The one concerning the Court of WARDS and LIVERIES: The other concerning such as shall Inform the House of any Member that hath ta<g ref="char:EOLhyphen"/>ken any Money or other Reward, for any thing depending in the House.</p>
+            <p>Together with an <hi>Order</hi> concerning such Persons as are come in from the Kings Quarters, before the first of this instant <hi>December.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="order_to_print">
+                        <p>
+                           <hi>ORdered by the</hi> Commons <hi>assembled in</hi> Parliament, <hi>That these</hi> Declarations <hi>be forthwith Printed and Published.</hi>
+                        </p>
+                        <closer>
+                           <signed>Hen. Elsynge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>London, Printed for <hi>Edw. Husband,</hi> Printer to the Honorable House of Commons, and are to be sold at his Shop at the Sign of the Golden Dragon in Fleetstreet, neer the Inner-Temple, <hi>January.</hi> 3. 1645.</p>
+            <pb facs="tcp:113357:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb n="3" facs="tcp:113357:2"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Martis,</hi> 4. <hi>Novemb.</hi> 1645.</date>
+               </dateline>
+            </opener>
+            <argument>
+               <p>A Declaration of the Honorable House of Com<g ref="char:EOLhyphen"/>mons, whereby the Master and Councel of the Court of Wards and Liveries, are required to presse the suing out of Liveries, as well as com<g ref="char:EOLhyphen"/>pounding for Wardships, the former Votes a<g ref="char:EOLhyphen"/>gainst the said Court notwithstanding.</p>
+            </argument>
+            <p>
+               <seg rend="decorInit">T</seg>He House being inform<g ref="char:EOLhyphen"/>ed, That by reason of a Vote passed in this House the twentieth of September last, that the Court of Wards should be ta<g ref="char:EOLhyphen"/>ken away, divers Wardships, Li<g ref="char:EOLhyphen"/>veries, <hi>Primer seisins,</hi> and mean Rates, which heretofore fell and hapned, are not compounded for, and sued out as they ought to be; For remedy whereof, It is hereby Declared, That all Wardships, Liveries, <hi>Primer seisins,</hi> and mean Rates, which heretofore have hap<g ref="char:EOLhyphen"/>ned and fell, or here after shall fall
+<pb n="4" facs="tcp:113357:3"/> and happen▪ before the Court of Wards shall be put down by the Parliament, shall be answered for to the Commonwealth: And the Master and Counsel of the said Court are required to proceed effe<g ref="char:EOLhyphen"/>ctually in granting and compoun<g ref="char:EOLhyphen"/>ding for Wardships, and pressing the suing forth of Liveries of all persons whatsoever from whom they shall be due, and in prosecu<g ref="char:EOLhyphen"/>ting Suits there, Any pretence of Priviledges or Order to the con<g ref="char:EOLhyphen"/>trary notwithstanding; And the Master and Counsel are required to grant the Wardships to any that will compound for them, in case those inabled by the Instru<g ref="char:EOLhyphen"/>ctions to compound, do not come in within their times. Provided al<g ref="char:EOLhyphen"/>wayes, that this Declaration, or any thing therein contained, shall not extend to any whose Ancestors being Officers or Souldiers, have been slain or dyed in the service of the Parliament.</p>
+            <closer>
+               <signed>H: Elsynge, Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <div type="order">
+            <pb n="5" facs="tcp:113357:3"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Mercurii,</hi> 17. <hi>Decembr.</hi> 1645.</date>
+               </dateline>
+            </opener>
+            <argument>
+               <p>An Order of the Commons assembled in Parliament, concerning all such per<g ref="char:EOLhyphen"/>sons as have come in from the Kings quarters, before the first of this instant December.</p>
+            </argument>
+            <p>
+               <seg rend="decorInit">O</seg>Rdered by the Com<g ref="char:EOLhyphen"/>mons assembled in <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> That all such persons as have come in from the <hi>Kings</hi> quar<g ref="char:EOLhyphen"/>ters, being Souldiers of Fortune; and submitted to the Parliament before the First of this instant De<g ref="char:EOLhyphen"/>cember; and also those five Colo<g ref="char:EOLhyphen"/>nels &amp; Officers that came in with Captain <hi>Pickering</hi> from <hi>Worcester,</hi> taking the Oath in the Ordinance of the Fifth of April, 1645. and the Nationall League and Covenant, shall forthwith depart out of the City of <hi>London</hi> and Lines of Com<g ref="char:EOLhyphen"/>munication,
+<pb n="6" facs="tcp:113357:4"/> and give Security to appear when they shall be requi<g ref="char:EOLhyphen"/>red, to submit unto all Ordinan<g ref="char:EOLhyphen"/>ces of Parliament, not to act or counsell any thing against the Par<g ref="char:EOLhyphen"/>liament; And not to return to the said city of <hi>London,</hi> or come within the lines of Communication with<g ref="char:EOLhyphen"/>out leave from this House; and shall therupon have Passes to go to their own habitations, or to their Friends, within any of the Par<g ref="char:EOLhyphen"/>liaments quarters being no Gar<g ref="char:EOLhyphen"/>rison, and to reside there: This Security to be given to the Com<g ref="char:EOLhyphen"/>mittee of Examinations, who are hereby Authorised to take the same. Provided, that if any of them shall return to the said City, or come within the Lines of Com<g ref="char:EOLhyphen"/>munication, without such leave as aforesaid first obtained, then they and every of them shall be taken and proceeded against as Spies.</p>
+            <closer>
+               <signed>H: Elsynge, Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <div type="declaration">
+            <pb n="7" facs="tcp:113357:4"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Lunae,</hi> 1. <hi>Decemb.</hi> 1645.</date>
+               </dateline>
+            </opener>
+            <p>THe House of Commons doth Declare, That it shall be an ac<g ref="char:EOLhyphen"/>ceptable service for any person or persons to inform this House, of any Member or Members of this House, that by himself or others di<g ref="char:EOLhyphen"/>rectly or indirectly hath taken or received any money or other thing, of any person or persons, for any matter or thing depending in this House, or any Committee of this House, since the beginning of this Parliament: And the House hath appointed a Committee to receive any such Informations, who are to sit in the Exchequer chamber, upon Thursday next in the after<g ref="char:EOLhyphen"/>noon, and so from time to time: And the Members of this House are hereby enjoyned, if any of them know of any such thing so taken in manner as aforesaid, by any other of the Members, that they do re<g ref="char:EOLhyphen"/>pair to the said Committee, and inform them of the same.</p>
+            <closer>
+               <signed>H: Elsynge, Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
